@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box-item {
+    width: 500px;
+    height: 600px;
+    border: 2px solid;
+    padding: 20px;
+    font-style: italic;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 25px;
+}
+
+p {
+    font-family: "BrimHund-Medium";
+}
